@@ -1,4 +1,4 @@
 #!/bin/bash
 
 date
-curl wttr.in/Tampa?format=3
+curl wttr.in/Manila?format=3
